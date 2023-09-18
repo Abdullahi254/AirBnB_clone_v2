@@ -3,8 +3,8 @@
 </p>
 
 
-<h1 align="center">AlxBnB</h1>
-<p align="center">An AirBnB clone.</p>
+<h1 align="center">AlxBnB CLI v2</h1>
+<p align="center">An AirBnB clone v2 - Updated.</p>
 
 ---
 
