@@ -4,7 +4,7 @@
 
 
 <h1 align="center">AlxBnB</h1>
-<p align="center">An AirBnB clone.</p>
+<p align="center">An AirBnB clone v2 - Updated.</p>
 
 ---
 
