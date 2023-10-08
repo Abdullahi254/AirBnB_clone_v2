@@ -1,12 +1,12 @@
-"""
-compress web static package
+#!/usr/bin/python3
+"""Compress web static package
 """
 from fabric.api import *
 from datetime import datetime
 from os import path
 
 
-env.hosts = ['54.157.134.127', '54.210.89.250']
+env.hosts = ['100.25.19.204', '54.157.159.85']
 env.user = 'ubuntu'
 env.key_filename = '~/.ssh/id_rsa'
 
