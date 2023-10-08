@@ -186,6 +186,6 @@ $ python3 unittest -m tests/test_console.py
 ## Authors :black_nib:
 
 * **Moses Gichia** <[Moses](https://github.com/fr13nd-x/)>
-* **Abdullahi Mohamud** <[Abdullahi](https://github.com/Abdullahi254)>
+* **Abdullahi Mohamud-Ahmed** <[Abdullahi](https://github.com/Abdullahi254)>
 
 
